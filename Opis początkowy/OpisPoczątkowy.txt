@@ -1,0 +1,1 @@
+Aplkiacja to Notatnik wykonany w WPF z mo¿liwoœci¹ zapisywania plików na dysku, otwierania z dysku, zmian¹ czcionki, koloru itd
