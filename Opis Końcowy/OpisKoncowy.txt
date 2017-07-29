@@ -1,0 +1,5 @@
+Aplkiacja spe³nia 4 rzeczy, które by³y zaplanowane: zapisywanie plików na dysku, otwieranie z dysku, zmiana czcionki i koloru.
+
+Link do filmu
+
+https://youtu.be/_L9dpOnPwqA
