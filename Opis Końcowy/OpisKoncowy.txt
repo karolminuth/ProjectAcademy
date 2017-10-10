@@ -1,4 +1,5 @@
-Aplkiacja spe≥nia 4 rzeczy, ktÛre by≥y zaplanowane: zapisywanie plikÛw na dysku, otwieranie z dysku, zmiana czcionki i koloru.
+
+Aplkiacja spe≈Çnia 4 rzeczy, kt√≥re by≈Çy zaplanowane: zapisywanie plik√≥w na dysku, otwieranie z dysku, zmiana czcionki i koloru.
 
 Link do filmu
 
